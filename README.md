@@ -35,7 +35,6 @@ This project is intended for learning purposes and as a portfolio project.
 
 ## Screenshots
 
-_(Add screenshots here once available)_
+<img width="1844" height="940" alt="Screenshot1" src="https://github.com/user-attachments/assets/e748e5f3-613b-4a6d-90e4-665b40cc57e7" />
 
-```text
-images/weather-dashboard.png
+
