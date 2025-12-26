@@ -56,6 +56,12 @@ For each searched city, the following information is shown:
 ## Screenshots
 
 <img width="1844" height="940" alt="Screenshot1" src="https://github.com/user-attachments/assets/e748e5f3-613b-4a6d-90e4-665b40cc57e7" />
+<img width="1803" height="899" alt="Screenshot2" src="https://github.com/user-attachments/assets/d0ab2bba-cf71-4d0d-b752-8a2536b402db" />
+<img width="1763" height="929" alt="Screenshot3" src="https://github.com/user-attachments/assets/aac92673-636a-4754-b114-054ffb0bbf8c" />
+<img width="1771" height="925" alt="Screenshot4" src="https://github.com/user-attachments/assets/84356bae-a20b-43c1-8ec9-ee00de5a0cc3" />
+
+
+
 ---
 
 ## Installation and Setup
