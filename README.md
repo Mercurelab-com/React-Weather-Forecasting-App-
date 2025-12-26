@@ -57,6 +57,7 @@ For each searched city, the following information is shown:
 
 <img width="1844" height="940" alt="Screenshot1" src="https://github.com/user-attachments/assets/e748e5f3-613b-4a6d-90e4-665b40cc57e7" />
 ---
+
 ## Installation and Setup
 
 Follow the steps below to run the project. 
@@ -81,21 +82,21 @@ Follow the steps below to run the project.
 
 ----
 ## Error Handling
-Displays a message when a city is not found
-Handles network or API errors gracefully
-Prevents empty search submissions
+  - Displays a message when a city is not found
+  - Handles network or API errors gracefully
+  - Prevents empty search submissions
 ----
 ## Limitations
-Only current weather data is supported
-Forecast data is not yet implemented
-Requires an active internet connection
+- Only current weather data is supported
+- Forecast data is not yet implemented
+- Requires an active internet connection
 ---
 ## Future Improvements
-5-day weather forecast
-Location-based weather using geolocation
-Temperature unit toggle (°C / °F)
-Dark mode
-Improved UI and animations
+- 5-day weather forecast
+- Location-based weather using geolocation
+- Temperature unit toggle (°C / °F)
+- Dark mode
+- Improved UI and animations
 ---
 
 ## Learning Objectives
